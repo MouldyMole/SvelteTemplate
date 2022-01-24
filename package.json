@@ -5,7 +5,7 @@
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public",
-    "open": "start http://localhost:5000"
+    "open": "start http://localhost:8080"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
